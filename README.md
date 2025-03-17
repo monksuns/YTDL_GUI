@@ -59,3 +59,4 @@ python YT1.py
 
 - Скрипт использует `yt-dlp` для скачивания видео и аудио и `ffmpeg` для их объединения.
 - Для корректной работы скрипта необходимо, чтобы вы были авторизованы в YouTube через браузер Firefox.
+![image](https://github.com/user-attachments/assets/da8b42bf-d357-4c63-b706-8104231de630)
