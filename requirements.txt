@@ -1,0 +1,8 @@
+requests
+ttkbootstrap
+Pillow
+colorama
+rich
+svglib
+reportlab
+yt-dlp
